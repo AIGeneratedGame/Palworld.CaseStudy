@@ -8,3 +8,6 @@ sch: https://www.youtube.com/results?search_query=i%27m+addicted+to+palworld
 wiki:
 - https://en.wikipedia.org/wiki/Palworld
 - https://palworld.fandom.com/wiki/Palworld
+
+question: What was Palworld's Budget?
+answer: https://www.thegamer.com/palworld-budget-one-billion-yen-no-budgeting/
